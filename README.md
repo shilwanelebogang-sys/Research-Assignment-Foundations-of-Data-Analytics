@@ -1,6 +1,6 @@
 **OVERVIEW**
 
-This project is a research-based assignment completed as part of my Data Science program at BrightLearn (2026). It focuses on understanding the fundamental concepts that drive data analytics and how data is used to support business decision-making.
+This is a research-based assignment completed as part of my Data Science program at BrightLearn (2026). It focuses on understanding the fundamental concepts that drive data analytics and how data is used to support business decision-making.
 
 
 **OBJECTIVE**
