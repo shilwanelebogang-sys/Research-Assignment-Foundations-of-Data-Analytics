@@ -38,7 +38,8 @@ To explore and explain the core principles of data analytics, including data col
 
 **FILES INCLUDED**
 
-•    – Full research assignment
+•  https://github.com/shilwanelebogang-sys/Research-Assignment-Foundations-of-Data-Analytics/blob/main/BrightLearn_Research_Assignment_1%20Questions.pdf  – Full research assignment Questions
+• 
 
 
 **FUTURE IMPROVEMENTS**
