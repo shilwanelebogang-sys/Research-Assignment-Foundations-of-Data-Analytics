@@ -9,18 +9,27 @@ To explore and explain the core principles of data analytics, including data col
 **KEY CONCEPTS COVERED**
 
 • Data Analytics lifecycle
+
 • Structured vs Unstructured Data
+
 • Data Cleaning & Preparation
+
 • Exploratory Data Analysis (EDA)
+
 • Data Visualization principles
+
 • Role of SQL and Python in analytics
+
 • Data-driven decision making
 
 **SKILLS DEMONSTRATED**
 
 • Analytical thinking
+
 • Research and problem-solving
+
 • Understanding of data workflows
+
 • Communication of technical concepts
 
 **FILES INCLUDED**
