@@ -2,9 +2,11 @@
 
 This project is a research-based assignment completed as part of my Data Science program at BrightLearn (2026). It focuses on understanding the fundamental concepts that drive data analytics and how data is used to support business decision-making.
 
+
 **OBJECTIVE**
 
 To explore and explain the core principles of data analytics, including data collection, cleaning, analysis, and visualization.
+
 
 **KEY CONCEPTS COVERED**
 
@@ -22,6 +24,7 @@ To explore and explain the core principles of data analytics, including data col
 
 • Data-driven decision making
 
+
 **SKILLS DEMONSTRATED**
 
 • Analytical thinking
@@ -32,9 +35,11 @@ To explore and explain the core principles of data analytics, including data col
 
 • Communication of technical concepts
 
+
 **FILES INCLUDED**
 
 •    – Full research assignment
+
 
 **FUTURE IMPROVEMENTS**
 
