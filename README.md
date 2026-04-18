@@ -1,4 +1,5 @@
-**OVERVIEW**
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/05a5523d-6d40-4436-8661-af5d30f1b160" />
+  **OVERVIEW**
 
 This is a research-based assignment completed as part of my Data Science program at BrightLearn (2026). It focuses on understanding the fundamental concepts that drive data analytics and how data is used to support business decision-making.
 
