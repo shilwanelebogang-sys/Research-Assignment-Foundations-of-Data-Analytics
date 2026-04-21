@@ -43,7 +43,7 @@ To explore and explain the core principles of data analytics, including data col
 •  https://github.com/shilwanelebogang-sys/Research-Assignment-Foundations-of-Data-Analytics/blob/main/Research%20Assignment%201%20Answers%20.pdf – Full research assignment Answers
 
 
-**FUTURE IMPROVEMENTS**
+# **FUTURE IMPROVEMENTS**
 
 This research assignment lays the foundation for upcoming hands-on projects where I will apply these concepts using SQL, Python, and data visualization tools such as Power BI.
 
